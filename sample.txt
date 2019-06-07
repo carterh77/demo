@@ -1,13 +1,1 @@
- HEAD
-Year 2014 -update master branch
-Hello Carter
-HI
-=======
-year 2014 -updated testbranch branch
-Hello Carter
-Carter
->>>>>>> Dev
-This is devops
-For git
-Hello We modified
 HELLO
